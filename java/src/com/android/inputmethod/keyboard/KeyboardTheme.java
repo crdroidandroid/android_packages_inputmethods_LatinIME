@@ -126,7 +126,7 @@ public final class KeyboardTheme implements Comparable<KeyboardTheme> {
         if (theme == null) {
             theme = searchKeyboardThemeById(DEFAULT_THEME_ID, KEYBOARD_THEMES);
         }
-        return theme.mThemeName;
+        return theme != null ? theme.mThemeName : null;
     }
 
     public static void saveKeyboardThemeId(final int themeId, final SharedPreferences prefs) {
