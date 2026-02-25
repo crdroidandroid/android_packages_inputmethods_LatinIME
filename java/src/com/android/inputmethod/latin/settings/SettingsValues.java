@@ -146,7 +146,7 @@ public class SettingsValues {
         mShowNumberRow = prefs.getBoolean(Settings.PREF_SHOW_NUMBER_ROW, false);
         mShowNumberRowPassword = prefs.getBoolean(Settings.PREF_SHOW_NUMBER_ROW_PASSWORD, false);
         mShowLongpressHints = prefs.getBoolean(Settings.PREF_SHOW_LONGPRESS_HINTS, true);
-        mShowsEmojiKey = prefs.getBoolean(Settings.PREF_SHOW_EMOJI_KEY, false);
+        mShowsEmojiKey = prefs.getBoolean(Settings.PREF_SHOW_EMOJI_KEY, true);
         mUseContactsDict = prefs.getBoolean(Settings.PREF_KEY_USE_CONTACTS_DICT, true);
         mUsePersonalizedDicts = prefs.getBoolean(Settings.PREF_KEY_USE_PERSONALIZED_DICTS, true);
         mUseDoubleSpacePeriod = prefs.getBoolean(Settings.PREF_KEY_USE_DOUBLE_SPACE_PERIOD, true)
