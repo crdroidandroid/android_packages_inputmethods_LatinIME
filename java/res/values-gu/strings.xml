@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"તમારો વ્યક્તિગત શબ્દકોશનો Google સર્વર્સ પર બેક અપ લેવાશે અને સમન્વયિત કરવામાં આવશે. અમારા ઉત્પાદનોને બહેતર બનાવવામાં સહાય માટે શબ્દ આવૃત્તિની આંકડાકીય માહિતી ભેગી કરવામાં આવી શકે છે. બધી માહિતીનો સંગ્રહ અને ઉપયોગ "<a href="https://www.google.com/policies/privacy">"Google ની ગોપનીયતા નીતિ"</a>"ની સાથે સુસંગત હશે."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"કૃપા કરીને આ સુવિધા સક્ષમ કરવા માટે આ ઉપકરણ પર Google એકાઉન્ટ ઉમેરો"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"વ્યવસાય એકાઉન્ટ્સ માટે Google Apps સાથેના ઉપકરણો માટે સમન્વયન ઉપલબ્ધ નથી"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"અન્ય ઇનપુટ પદ્ધતિઓ પર સ્વિચ કરો"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"ભાષા સ્વિચ કી અન્ય ઇનપુટ પદ્ધતિઓને પણ આવરે છે"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"ભાષા સ્વિચ કી"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"જ્યારે બહુવિધ ઇનપુટ ભાષાઓ સક્ષમ હોય ત્યારે બતાવો"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"કી પોપઅપ કાઢી નાખવામાં વિલંબ"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"કોઈ વિલંબ નથી"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"ડિફોલ્ટ"</string>

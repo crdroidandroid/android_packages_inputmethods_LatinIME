@@ -25,5 +25,5 @@
     <string name="show_longpress_hints">顯示長按按鍵提示</string>
     <string name="show_longpress_hints_summary">對支援的鍵顯示長按提示</string>
     <string name="show_emoji_key">顯示表情符號鍵</string>
-    <string name="show_emoji_key_summary">一律顯示表情符號鍵。啟用此選項時，將不會顯示語言切換鍵。</string>
+    <string name="show_emoji_key_summary">一律顯示表情符號鍵。</string>
 </resources>

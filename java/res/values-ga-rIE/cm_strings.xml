@@ -29,5 +29,5 @@
     <string name="show_longpress_hints">Taispeáin leideanna fadbhrúite</string>
     <string name="show_longpress_hints_summary">Taispeáin leideanna fadbhrú le haghaidh eochracha tacaithe</string>
     <string name="show_emoji_key">Taispeáin eochair emoji</string>
-    <string name="show_emoji_key_summary">Taispeáin eochair emoji i gcónaí. Nuair atá an rogha seo cumasaithe, ní féidir eochair an lasc teanga a thaispeáint.</string>
+    <string name="show_emoji_key_summary">Taispeáin eochair emoji i gcónaí.</string>
 </resources>

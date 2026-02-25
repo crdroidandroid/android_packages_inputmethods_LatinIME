@@ -89,7 +89,7 @@ public final class Farsi extends LayoutBase {
 
         @Override
         public ExpectedKey[] getSpaceKeys(final boolean isPhone) {
-            return joinKeys(LANGUAGE_SWITCH_KEY, SPACE_KEY, key(ZWNJ_KEY, ZWJ_KEY));
+            return joinKeys(SPACE_KEY, key(ZWNJ_KEY, ZWJ_KEY));
         }
 
         @Override

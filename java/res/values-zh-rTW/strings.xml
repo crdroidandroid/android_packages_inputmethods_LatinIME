@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"系統將會同步處理你的個人字典並備份至 Google 伺服器，同時也會收集字詞頻率的統計資訊，藉此改善我們的產品品質。所有資訊的收集和使用方式都會遵守《"<a href="https://www.google.com/policies/privacy">"Google 隱私權政策"</a>"》的規定。"</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"請將 Google 帳戶新增到這個裝置以啟用這項功能"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"採用 Google Apps for Business 帳戶的裝置無法使用同步處理功能"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"切換到其他輸入法"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"使語言切換鍵包含其他輸入法"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"語言切換鍵"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"有多種輸入語言可選用時顯示切換鍵"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"關閉彈出式鍵盤的延遲時間"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"不延遲"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"預設"</string>

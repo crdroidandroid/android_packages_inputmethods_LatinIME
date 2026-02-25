@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ನಿಘಂಟನ್ನು Google ಸರ್ವರ್‌ಗಳಿಗೆ ಸಿಂಕ್‌ ಮಾಡಲಾಗುತ್ತದೆ ಹಾಗೂ ಬ್ಯಾಕಪ್‌ ಮಾಡಲಾಗುತ್ತದೆ. ನಮ್ಮ ಉತ್ಪನ್ನಗಳನ್ನು ಸುಧಾರಿಸಲು ಪದ ಆವರ್ತನೆಯ ಅಂಕಿಅಂಶವನ್ನು ಸಂಗ್ರಹಿಸಬಹುದು. ಎಲ್ಲಾ ಮಾಹಿತಿಯ ಸಂಗ್ರಹಣೆ ಮತ್ತು ಬಳಕೆಯು "<a href="https://www.google.com/policies/privacy">"Google ನ ಗೌಪ್ಯತೆ ನೀತಿ"</a>"ಗೆ ಬದ್ಧವಾಗಿರುತ್ತವೆ."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"ಈ ಸಾಧನಕ್ಕೆ ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ದಯವಿಟ್ಟು Google ಖಾತೆಯನ್ನು ಸೇರಿಸಿ"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"ವ್ಯಾಪಾರಕ್ಕಾಗಿ Google Apps ಖಾತೆಗಳನ್ನು ಹೊಂದಿರುವ ಸಾಧನಗಳಿಗೆ ಸಿಂಕ್ ಲಭ್ಯವಿಲ್ಲ"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"ಇತರೆ ಇನ್‌ಪುಟ್ ವಿಧಾನಗಳಿಗೆ ಬದಲಾಯಿಸು"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"ಭಾಷಾ ಬದಲಾವಣೆ ಕೀಯು ಇತರೆ ಇನ್‌ಪುಟ್ ವಿಧಾನಗಳನ್ನು ಕೂಡ ಒಳಗೊಂಡಿರುತ್ತದೆ"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"ಭಾಷೆ ಬದಲಾವಣೆ ಕೀ"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"ಬಹು ಇನ್‌ಪುಟ್ ಭಾಷೆಗಳು ಸಕ್ರಿಯಗೊಂಡಾಗ ತೋರಿಸು"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"ಕೀ ಪಾಪ್‌ಅಪ್‌ನ ವಜಾ ವಿಳಂಬ"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"ಯಾವುದೇ ವಿಳಂಬವಿಲ್ಲ"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"ಡಿಫಾಲ್ಟ್"</string>

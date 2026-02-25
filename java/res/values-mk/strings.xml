@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Вашиот личен речник ќе се синхронизира и ќе се создаде резервна копија на серверите на Google. Може да се собираат статистички информации за честотата на зборовите за помош при подобрување на нашите производи. Собирањето и користењето на сите информации ќе биде во согласност со "<a href="https://www.google.com/policies/privacy">"Политиката за приватност на Google"</a>"."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Додајте сметка на Google на уредов за овозможување на функцијава"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Синхронизација не е достапна за уреди со сметки за бизнис на Апликации на Google"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Префрли на други влезни методи"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Копчето за менување јазици покрива и други методи на внес"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"Копче за промена на јазик"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"Покажи кога се овозможени повеќе влезни јазици"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"Откажи доцнење за копче"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"Без задоцнување"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"Стандардно"</string>

@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Từ điển cá nhân của bạn sẽ được đồng bộ hóa và sao lưu vào máy chủ Google. Chúng tôi có thể thu thập thông tin thống kê về tần suất của từ để giúp cải thiện sản phẩm của mình. Việc thu thập và sử dụng tất cả thông tin sẽ tuân thủ "<a href="https://www.google.com/policies/privacy">"Chính sách quyền riêng tư của Google"</a>"."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Vui lòng thêm một tài khoản Google vào thiết bị này để bật tính năng này"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Tính năng đồng bộ hóa không khả dụng cho các thiết bị có tài khoản Google Apps for Business"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Phương thức nhập khác"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Khóa chuyển ngôn ngữ bao gồm cả các phương thức nhập liệu khác"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"Phím chuyển đổi ngôn ngữ"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"Hiển thị khi nhiều ngôn ngữ đầu vào được bật"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"Độ trễ ẩn phím bật lên"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"Không trễ"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"Mặc định"</string>

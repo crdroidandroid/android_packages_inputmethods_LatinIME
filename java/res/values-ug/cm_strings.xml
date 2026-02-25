@@ -29,5 +29,5 @@
     <string name="show_longpress_hints">ئۇزۇن بېسىلسا ئەسكەرتىشنى كۆرسىتىدۇ</string>
     <string name="show_longpress_hints_summary">قوللايدىغان كۇنۇپكىنىڭ ئۇزۇن بېسىلسا ئەسكەرتىشىنى كۆرسىتىدۇ</string>
     <string name="show_emoji_key">چىراي ئىپادە كۇنۇپكىسىنى كۆرسەت</string>
-    <string name="show_emoji_key_summary">ھەمىشە چىراي ئىپادە كۇنۇپكىسىنى كۆرسىتىدۇ. بۇ تاللانما قوزغىتىلسا، تىل ئالماشتۇرۇش كۇنۇپكىسى كۆرۈنمەيدۇ.</string>
+    <string name="show_emoji_key_summary">ھەمىشە چىراي ئىپادە كۇنۇپكىسىنى كۆرسىتىدۇ.</string>
 </resources>

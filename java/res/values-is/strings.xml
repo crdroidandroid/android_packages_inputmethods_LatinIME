@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Orðabókin þín verður samstillt og afrituð á netþjóna Google. Hugsanlega verður talnagögnum um tíðni orða safnað til að gera vörur okkar betri. Söfnun og notkun allra upplýsinga fellur undir "<a href="https://www.google.com/policies/privacy">"persónuverndarstefnu Google"</a>"."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Bættu Google reikningi við tækið til að virkja þennan eiginleika"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Samstilling er ekki í boði fyrir tæki með Google Apps fyrirtækjareikning"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Skipta um innsláttaraðferð"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Lykill til að skipta um mál inniheldur aðrar innsláttaraðferðir"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"Lykill til að breyta tungumáli"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"Sýna þegar mörg innsláttartungumál eru virk"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"Hunsunartöf lyklaglugga"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"Engin töf"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"Sjálfgefið"</string>

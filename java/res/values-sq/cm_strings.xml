@@ -29,5 +29,5 @@
     <string name="show_longpress_hints">Shfaq sugjerimet e tastit me shtypje të gjatë</string>
     <string name="show_longpress_hints_summary">Tregon sugjerime për shtypjen e gjatë për çelësat e mbështetur</string>
     <string name="show_emoji_key">Shfaq çelësin e emoji</string>
-    <string name="show_emoji_key_summary">Trego gjithmonë çelësin e emoji-t. Kur ky opsion është i aktivizuar, tasti i ndërrimit të gjuhës nuk mund të shfaqet.</string>
+    <string name="show_emoji_key_summary">Trego gjithmonë çelësin e emoji-t.</string>
 </resources>

@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"ඔබගේ පෞද්ගලික ශබ්දකෝෂය Google සේවාදායකයන් වෙත සමමුහුර්ත කර උපස්ථය කෙරෙනු ඇත. අපගේ නිෂ්පාදන වැඩි දියුණු කිරීමට උදවු වනු පිණිස වචන භාවිතා වන වාර ගණන පිළිබඳ සංඛ්‍යාත්මක තොරතුරු සමුච්චය කිරීමට ඉඩ ඇත. සියලු දත්ත සමුච්චය කිරීම සහ භාවිතා කිරීම "<a href="https://www.google.com/policies/privacy">"Google හි රහස්‍යතා ප්‍රතිපත්තිය"</a>"අනුව සිදු කරනු ඇත."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"මෙම විශේෂාංගය සබල කිරීමට කරුණාකර Google ගිණුමක් එක් කරන්න"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"ව්‍යාපාර ගිණුම් සඳහා Google යෙදුම් සමඟ සමමුහුර්ත කිරීම ලද නොහැකිය."</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"වෙනත් ආදාන ක්‍රම වෙත මාරුවන්න"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"භාෂා මාරු යතුර වෙනත් ආදාන ක්‍රමද ආවරණය කරයි"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"භාෂා මාරු යතුර"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"බහුවිධ ආදාන භාෂා සබල කර ඇති විට පෙන්වන්න"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"යතුරු උත්පතන ඉවත් කිරීමේ ප්‍රමාදය"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"ප්‍රමාද නැත"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"සුපුරුදු"</string>

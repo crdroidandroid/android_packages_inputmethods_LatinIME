@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"మీ వ్యక్తిగత నిఘంటువు Google సర్వర్‌లకు సమకాలీకరించబడుతుంది మరియు బ్యాకప్ చేయబడుతుంది. మా ఉత్పత్తులను మెరుగుపరచడంలో సహాయకరంగా ఉండటానికి పదం తరచుదనానికి సంబంధించిన గణాంక సమాచారం సేకరించవచ్చు. మొత్తం సమాచార సేకరణ మరియు వినియోగం "<a href="https://www.google.com/policies/privacy">"Google గోప్యతా విధానం"</a>"కి లోబడి ఉంటుంది."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"దయచేసి ఈ లక్షణాన్ని ప్రారంభించడానికి ఈ పరికరానికి Google ఖాతాను జోడించండి"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"వ్యాపారం కోసం Google Apps ఖాతాలు గల పరికరాల కోసం సమకాలీకరణ అందుబాటులో లేదు"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"ఇతర ఇన్‌పుట్ పద్ధతులకు మారండి"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"భాష మార్పు కీ ఇతర ఇన్‌పుట్ పద్ధతులను కూడా కవర్ చేస్తుంది"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"భాష మార్పు కీ"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"బహుళ ఇన్‌పుట్ భాషలు ప్రారంభించబడినప్పుడు చూపు"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"కీ పాప్‌అప్ తీసివేత ఆలస్యం"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"ఆలస్యం లేదు"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"డిఫాల్ట్"</string>

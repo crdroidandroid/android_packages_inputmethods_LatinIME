@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Masi-sync at maba-back up ang iyong personal na dictionary sa mga server ng Google. Maaaring kolektahin ang istatistikal na impormasyon ng dalas ng salita upang makatulong na pahusayin ang aming mga produkto. Susunod ang pagkolekta at paggamit ng lahat ng impormasyon sa "<a href="https://www.google.com/policies/privacy">"Patakaran sa Privacy ng Google"</a>"."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Mangyaring magdagdag ng Google account sa device na ito upang i-enable ang feature na ito"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Pag-sync, hindi available sa device na may Google Apps for Business account"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Lipat iba paraan ng input"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Saklaw din ng key ng pagpalit ng wika ang ibang paraan ng input"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"Key ng panlipat ng wika"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"Ipakita kapag maraming wika ng input na pinagana"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"I-dismiss ang delay ng key popup"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"Walang delay"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"Default"</string>
