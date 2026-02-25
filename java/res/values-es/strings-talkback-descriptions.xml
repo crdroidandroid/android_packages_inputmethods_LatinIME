@@ -44,7 +44,6 @@
     <string name="spoken_description_return" msgid="4488063731506261120">"Intro"</string>
     <string name="spoken_description_search" msgid="329378364788556198">"Buscar"</string>
     <string name="spoken_description_dot" msgid="3283345286942874246">"Punto"</string>
-    <string name="spoken_description_language_switch" msgid="7746491590433873257">"Cambiar idioma"</string>
     <string name="spoken_description_action_next" msgid="3138675495787988738">"Siguiente"</string>
     <string name="spoken_description_action_previous" msgid="6412781133527225661">"Anterior"</string>
     <string name="spoken_description_shiftmode_on" msgid="3024566466254641378">"Mayúsculas habilitadas"</string>

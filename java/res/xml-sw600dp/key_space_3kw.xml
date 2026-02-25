@@ -24,19 +24,7 @@
     <switch>
         <case
             latin:keyboardLayoutSet="bengali_akkhor|farsi|kannada|nepali_romanized|nepali_traditional|telugu"
-            latin:languageSwitchKeyEnabled="true"
-        >
-            <Key
-                latin:keyStyle="languageSwitchKeyStyle" />
-            <Key
-                latin:keyStyle="spaceKeyStyle"
-                latin:keyWidth="8.0%p" />
-            <Key
-                latin:keyStyle="zwnjKeyStyle" />
-        </case>
-        <case
-            latin:keyboardLayoutSet="bengali_akkhor|farsi|kannada|nepali_romanized|nepali_traditional|telugu"
-            latin:languageSwitchKeyEnabled="false"
+            
         >
             <Key
                 latin:keyStyle="spaceKeyStyle"
@@ -44,16 +32,7 @@
             <Key
                 latin:keyStyle="zwnjKeyStyle" />
         </case>
-        <case
-            latin:languageSwitchKeyEnabled="true"
-        >
-            <Key
-                latin:keyStyle="languageSwitchKeyStyle" />
-            <Key
-                latin:keyStyle="spaceKeyStyle"
-                latin:keyWidth="16.0%p" />
-        </case>
-        <!-- languageSwitchKeyEnabled="false" -->
+        
         <default>
             <Key
                 latin:keyStyle="spaceKeyStyle"

@@ -29,5 +29,5 @@
     <string name="show_longpress_hints">Подсказки при длительном нажатии клавиш</string>
     <string name="show_longpress_hints_summary">Показывать всплывающие подсказки при длительном нажатии клавиш</string>
     <string name="show_emoji_key">Показать клавишу смайликов</string>
-    <string name="show_emoji_key_summary">Всегда показывать клавишу смайликов. Если эта опция включена, клавиша переключения языка не отображается.</string>
+    <string name="show_emoji_key_summary">Всегда показывать клавишу смайликов.</string>
 </resources>

@@ -25,5 +25,5 @@
     <string name="show_longpress_hints">Uzun basıldığında tuş ipuçlarını göster</string>
     <string name="show_longpress_hints_summary">Desteklenen tuşlar için uzun basma ipuçlarını göster</string>
     <string name="show_emoji_key">Emoji tuşunu göster</string>
-    <string name="show_emoji_key_summary">Her zaman emoji tuşunu göster. Bu ayar açıkken dil değiştirme tuşu gösterilmez.</string>
+    <string name="show_emoji_key_summary">Her zaman emoji tuşunu göster.</string>
 </resources>

@@ -29,5 +29,5 @@
     <string name="show_longpress_hints">Consells de les tecles en mantenir-les premudes</string>
     <string name="show_longpress_hints_summary">Manteniu premut per mostrar els consells de les tecles</string>
     <string name="show_emoji_key">Mostra la tecla emoji</string>
-    <string name="show_emoji_key_summary">Mostra sempre la tecla emoji. Si trieu aquesta opció, no es mostrarà la tecla de canvi de llengua.</string>
+    <string name="show_emoji_key_summary">Mostra sempre la tecla emoji.</string>
 </resources>

@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Váš osobný slovník sa synchronizuje a zálohuje na servery Google. S cieľom zlepšiť naše služby môžeme zhromažďovať štatistické informácie o frekvencii slov. Zhromažďovanie informácií a ich použitie bude v súlade s "<a href="https://www.google.com/policies/privacy">"pravidlami ochrany súkromia spoločnosti Google"</a>"."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Povoľte túto funkciu tak, že do zariadenia pridáte účet Google"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Synchronizácia je nedostupná pre zariadenia s účtami Google Apps pre firmy"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Prepnúť na iné metódy vstupu"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Kláves na prepnutie jazyka pokrýva aj ďalšie metódy vstupu"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"Kľúč na prepínanie jazyka"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"Zobraziť, keď je povolených viac jazykov vstupu"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"Oneskorenie detailu znaku"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"Bez oneskorenia"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"Predvolené"</string>

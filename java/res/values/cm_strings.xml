@@ -54,5 +54,5 @@ disposition rather than other common dispositions for Latin languages. [CHAR LIM
 
     <!-- Preference item for always showing the emoji key -->
     <string name="show_emoji_key">Show emoji key</string>
-    <string name="show_emoji_key_summary">Always show emoji key. When this option is enabled, the language switch key cannot be shown.</string>
+    <string name="show_emoji_key_summary">Always show emoji key.</string>
 </resources>

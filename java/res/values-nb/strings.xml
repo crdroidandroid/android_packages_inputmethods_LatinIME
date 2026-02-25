@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Den personlige ordlisten din blir synkronisert og sikkerhetskopiert til Google-tjenere. For å bidra til å forbedre produktene våre, kan det hende vi samler inn informasjon om ordfrekvens. Innsamling og bruk av all informasjon skjer i henhold til "<a href="https://www.google.com/policies/privacy">"Googles personvernregler"</a>"."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Legg en Google-konto til enheten for å aktivere denne funksjonen"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Synkronisering er ikke tilgjengelig for enheter med Google Apps for Business-kontoer"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Bytt inndatametode"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Tasten for språkbytte dekker også andre inndatametoder"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"Nøkkel for språkskifte"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"Vis når flere inndataspråk er aktivert"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"Forsinkelse ved avvisning av tastevindu"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"Uten forsinkelse"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"Standard"</string>

@@ -25,5 +25,5 @@
     <string name="show_longpress_hints">მინიშნების გამოჩენა ხანგრძლივი დაჭერისას</string>
     <string name="show_longpress_hints_summary">ხანგრძლივი დაჭერისას მინიშნების ჩვენება შესაბამის ღილაკებზე</string>
     <string name="show_emoji_key">სიცილაკების ღილაკის ჩვენება</string>
-    <string name="show_emoji_key_summary">ყოველთვის ჩანდეს სიცილაკების ღილაკი. როცა მოქმედია, ენის გადართვის ღილაკი ვერ გამოჩნდება.</string>
+    <string name="show_emoji_key_summary">ყოველთვის ჩანდეს სიცილაკების ღილაკი.</string>
 </resources>

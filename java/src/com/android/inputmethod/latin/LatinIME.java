@@ -1524,16 +1524,6 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
         mRichImm.setInputMethodAndSubtype(token, subtype);
     }
 
-    // TODO: Revise the language switch key behavior to make it much smarter and more reasonable.
-    public void switchToNextSubtype() {
-        final IBinder token = getWindow().getWindow().getAttributes().token;
-        if (shouldSwitchToOtherInputMethods()) {
-            mRichImm.switchToNextInputMethod(token, false /* onlyCurrentIme */);
-            return;
-        }
-        mSubtypeState.switchSubtype(token, mRichImm);
-    }
-
     // TODO: Instead of checking for alphabetic keyboard here, separate keycodes for
     // alphabetic shift and shift while in symbol layout and get rid of this method.
     private int getCodePointForKeyboard(final int codePoint) {
@@ -2092,30 +2082,6 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
         p.println(settingsValues.dump());
         p.println(mDictionaryFacilitator.dump(this /* context */));
         // TODO: Dump all settings values
-    }
-
-    public boolean shouldSwitchToOtherInputMethods() {
-        // TODO: Revisit here to reorganize the settings. Probably we can/should use different
-        // strategy once the implementation of
-        // {@link InputMethodManager#shouldOfferSwitchingToNextInputMethod} is defined well.
-        final boolean fallbackValue = mSettings.getCurrent().mIncludesOtherImesInLanguageSwitchList;
-        final IBinder token = getWindow().getWindow().getAttributes().token;
-        if (token == null) {
-            return fallbackValue;
-        }
-        return mRichImm.shouldOfferSwitchingToNextInputMethod(token, fallbackValue);
-    }
-
-    public boolean shouldShowLanguageSwitchKey() {
-        // TODO: Revisit here to reorganize the settings. Probably we can/should use different
-        // strategy once the implementation of
-        // {@link InputMethodManager#shouldOfferSwitchingToNextInputMethod} is defined well.
-        final boolean fallbackValue = mSettings.getCurrent().isLanguageSwitchKeyEnabled();
-        final IBinder token = getWindow().getWindow().getAttributes().token;
-        if (token == null) {
-            return fallbackValue;
-        }
-        return mRichImm.shouldOfferSwitchingToNextInputMethod(token, fallbackValue);
     }
 
     /** @noinspection deprecation*/

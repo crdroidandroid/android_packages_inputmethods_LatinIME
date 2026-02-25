@@ -29,5 +29,5 @@
     <string name="show_longpress_hints">Mostrar sugerencias de teclas pulsadas prolongadamente</string>
     <string name="show_longpress_hints_summary">Muestra sugerencias de pulsación prolongada para las teclas compatibles</string>
     <string name="show_emoji_key">Mostrar tecla de emoticonos</string>
-    <string name="show_emoji_key_summary">Mostrar siempre la tecla de emoticonos. Si se activa esta opción, no es posible mostrar la tecla de cambio de idioma.</string>
+    <string name="show_emoji_key_summary">Mostrar siempre la tecla de emoticonos.</string>
 </resources>

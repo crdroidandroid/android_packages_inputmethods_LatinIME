@@ -34,18 +34,7 @@
             </case>
         </switch>
         <switch>
-            <case
-                latin:languageSwitchKeyEnabled="true"
-            >
-                <Key
-                    latin:keyStyle="languageSwitchKeyStyle"
-                    latin:keyXPos="19.231%p"
-                    latin:keyWidth="11.538%p" />
-                <Key
-                    latin:keyStyle="spaceKeyStyle"
-                    latin:keyWidth="42.308%p" />
-            </case>
-            <!-- languageSwitchKeyEnabled="false" -->
+            
             <default>
                 <Key
                     latin:keyStyle="spaceKeyStyle"

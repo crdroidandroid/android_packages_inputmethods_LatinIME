@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Asmeninis žodynas bus sinchronizuotas ir atsarginė kopija sukurta „Google“ serveriuose. Gali būti renkama statistinė žodžių dažnumo informacija, kad būtų galima patobulinti produktus. Visa informacija renkama ir naudojama laikantis "<a href="https://www.google.com/policies/privacy">"„Google“ privatumo politikos"</a>"."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Pridėkite „Google“ paskyrą prie įreng., kad įgalint. šią funkciją"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Sinchronizuoti negalima įrengin. su „Google Apps for Business“ paskyromis"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Perj. į kt. įvesties būd."</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Kalbos perjungimo klavišu taip pat perjungiami įvesties būdai"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"Kalbos keitimo klavišas"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"Rodyti, kai įgalintos kelios įvesties kalbos"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"Pagr. išš. l. atsis. d."</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"Be delsos"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"Numatytasis"</string>

@@ -29,5 +29,5 @@
     <string name="show_longpress_hints">Pokazuj podpowiedzi długiego przytrzymania klawisza</string>
     <string name="show_longpress_hints_summary">Wyświetla podpowiedzi długiego przytrzymania dla obsługiwanych klawiszy</string>
     <string name="show_emoji_key">Pokazuj przycisk emoji</string>
-    <string name="show_emoji_key_summary">Zawsze pokazuj przycisk emoji. Gdy ta opcja jest włączona, przycisk przełączania języka nie będzie wyświetlany.</string>
+    <string name="show_emoji_key_summary">Zawsze pokazuj przycisk emoji.</string>
 </resources>

@@ -25,5 +25,5 @@
     <string name="show_longpress_hints">Mostre sugjeriments di pression sprolungjade</string>
     <string name="show_longpress_hints_summary">Mostre sugjeriments di pression sprolungjade pai tascj supuartâts</string>
     <string name="show_emoji_key">Metre tast emoji</string>
-    <string name="show_emoji_key_summary">Mostre simpri il tast emoji. Se cheste opzion e je ative, nol sarà pussibil mostrâ il tast par cambiâ lenghe.</string>
+    <string name="show_emoji_key_summary">Mostre simpri il tast emoji.</string>
 </resources>

@@ -56,7 +56,7 @@ public class TestsSplitLayoutQwertyEnglishUS extends LayoutTestsBase {
             if (isPhone) {
                 return super.getSpaceKeys(isPhone);
             }
-            return joinKeys(LANGUAGE_SWITCH_KEY, SPACE_KEY, SPACE_KEY);
+            return joinKeys(SPACE_KEY, SPACE_KEY);
         }
     }
 }

@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Den personliga ordlistan synkroniseras och säkerhetskopieras till Googles servrar. Statistisk information om ordfrekvens kan samlas in och användas för att förbättra våra produkter. Insamlingen och användningen av all information sker i enlighet med "<a href="https://www.google.com/policies/privacy">"Googles sekretesspolicy"</a>"."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Lägg till ett Google-konto på enheten om du vill aktivera detta"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Synkronisering är inte tillgänglig för enheter med Google Apps for Business-konton"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Byt till annan inmatning"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Språkbytesknappen omfattar även andra inmatningsmetoder"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"Knapp för att byta språk"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"Visa när flera inmatningsspråk är aktiverade"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"Ta bort popup-fördröjning"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"Fördröj inte"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"Standard"</string>

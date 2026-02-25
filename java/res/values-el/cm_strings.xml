@@ -25,5 +25,5 @@
     <string name="show_longpress_hints">Εμφάνιση υποδείξεων παρατεταμένου πατήματος</string>
     <string name="show_longpress_hints_summary">Εμφανίζει υποδείξεις παρατεταμένου πατήματος για τα υποστηριζόμενα πλήκτρα</string>
     <string name="show_emoji_key">Εμφάνιση πλήκτρου emoji</string>
-    <string name="show_emoji_key_summary">Να εμφανίζεται πάντα το πλήκτρο emoji. Όταν αυτή η επιλογή είναι ενεργοποιημένη, το πλήκτρο αλλαγής γλώσσας δεν μπορεί να εμφανιστεί.</string>
+    <string name="show_emoji_key_summary">Να εμφανίζεται πάντα το πλήκτρο emoji.</string>
 </resources>

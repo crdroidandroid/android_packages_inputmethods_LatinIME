@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"உங்கள் தனிப்பட்ட அகராதி ஒத்திசைக்கப்பட்டு, Google சேவையகங்களில் காப்புப் பிரதி எடுக்கப்படும். எங்கள் தயாரிப்புகளை மேம்படுத்த உதவ, சொல் உபயோகத்தின் புள்ளிவிவரத் தகவல் சேகரிக்கப்படலாம். எல்லா தகவல்களின் சேகரிப்பும், உபயோகமும் "<a href="https://www.google.com/policies/privacy">"Google இன் தனியுரிமைக் கொள்கைக்கு"</a>" இணங்கியபடியே இருக்கும்."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"இந்த அம்சத்தை இயக்க, சாதனத்தில் Google கணக்கைச் சேர்க்கவும்"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"வணிகத்திற்கான Google Apps கணக்குகள் இயங்கும் சாதனங்களில் ஒத்திசைக்க முடியாது."</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"பிற உள்ளீட்டு முறைகளுக்கு மாறு"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"மொழி மாற்றல் விசை பிற உள்ளீட்டு முறைகளையும் கட்டுப்படுத்துகிறது"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"மொழி மாற்ற விசை"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"பல உள்ளீட்டு மொழிகள் இயக்கப்பட்டிருக்கும்போது காட்டு"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"விசை பாப்அப் விலக்கின் தாமதம்"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"தாமதம் வேண்டாம்"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"இயல்புநிலை"</string>

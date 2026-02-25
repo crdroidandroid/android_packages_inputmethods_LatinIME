@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"আপনার ব্যক্তিগত অভিধান Google সার্ভারগুলিতে সিঙ্ক এবং ব্যাক-আপ নেওয়া হবে৷ শব্দ ফ্রিকোয়েন্সির পরিসংখ্যানগত তথ্য আমাদের প্রোডাক্টের উন্নতিতে সাহায্যের জন্য সংগ্রহ করা হতে পারে৷ এই সংগ্রহ এবং সমস্ত তথ্যের ব্যবহার "<a href="https://www.google.com/policies/privacy">" এর গোপনীয়তা নীতি"</a>"-র সাথে সঙ্গতিশীল হবে৷"</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"এই বৈশিষ্ট্যটি সক্ষম করার জন্য অনুগ্রহ করে এই ডিভাইসে একটি Google অ্যাকাউন্ট যোগ করুন"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"ব্যবসা অ্যাকাউন্টগুলির জন্য Google Apps এর সাথে ডিভাইসগুলির জন্য সিঙ্ক অনুপলব্ধ"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"অন্য ইনপুট পদ্ধতিতে স্যুইচ করুন"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"ভাষা স্যুইচ কীতে অন্যান্য ইনপুট পদ্ধতি পাওয়া যায়"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"ভাষা স্যুইচ কী"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"যখন একাধিক ইনপুট ভাষা সক্ষম থাকে তখন দেখান"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"কী পপআপ বিলম্ব খারিজ"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"কোনো বিলম্ব হয়নি"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"ডিফল্ট"</string>
