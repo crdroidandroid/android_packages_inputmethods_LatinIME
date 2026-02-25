@@ -665,9 +665,6 @@ public class KeyboardBuilder<KP extends KeyboardParams> {
                     R.styleable.Keyboard_Case_hasShortcutKey, id.mHasShortcutKey);
             final boolean numberRowEnabledMatched = matchBoolean(caseAttr,
                     R.styleable.Keyboard_Case_numberRowEnabled, id.mNumberRowEnabled);
-            final boolean languageSwitchKeyEnabledMatched = matchBoolean(caseAttr,
-                    R.styleable.Keyboard_Case_languageSwitchKeyEnabled,
-                    id.mLanguageSwitchKeyEnabled);
             final boolean emojiKeyEnabledMatched = matchBoolean(caseAttr,
                     R.styleable.Keyboard_Case_emojiKeyEnabled,
                     id.mEmojiKeyEnabled);
@@ -687,7 +684,7 @@ public class KeyboardBuilder<KP extends KeyboardParams> {
                     && keyboardThemeMacthed && modeMatched && navigateNextMatched
                     && navigatePreviousMatched && passwordInputMatched && clobberSettingsKeyMatched
                     && hasShortcutKeyMatched  && numberRowEnabledMatched
-                    && languageSwitchKeyEnabledMatched && emojiKeyEnabledMatched
+                     && emojiKeyEnabledMatched
                     && isMultiLineMatched && imeActionMatched && isIconDefinedMatched
                     && localeCodeMatched && languageCodeMatched && countryCodeMatched
                     && splitLayoutMatched;
@@ -716,8 +713,6 @@ public class KeyboardBuilder<KP extends KeyboardParams> {
                                 "hasShortcutKey"),
                         booleanAttr(caseAttr, R.styleable.Keyboard_Case_numberRowEnabled,
                                 "numberRowEnabled"),
-                        booleanAttr(caseAttr, R.styleable.Keyboard_Case_languageSwitchKeyEnabled,
-                                "languageSwitchKeyEnabled"),
                         booleanAttr(caseAttr, R.styleable.Keyboard_Case_emojiKeyEnabled,
                                 "emojiKeyEnabled"),
                         booleanAttr(caseAttr, R.styleable.Keyboard_Case_isMultiLine,

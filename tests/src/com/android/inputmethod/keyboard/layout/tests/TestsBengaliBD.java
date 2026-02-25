@@ -47,7 +47,7 @@ public final class TestsBengaliBD extends LayoutTestsBase {
 
         @Override
         public ExpectedKey[] getSpaceKeys(final boolean isPhone) {
-            return joinKeys(LANGUAGE_SWITCH_KEY, SPACE_KEY, key(ZWNJ_KEY, ZWJ_KEY));
+            return joinKeys(SPACE_KEY, key(ZWNJ_KEY, ZWJ_KEY));
         }
 
         @Override

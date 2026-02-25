@@ -71,7 +71,6 @@
     <!-- Spoken description for the "U+2022" (BULLET) keyboard key. -->
     <string name="spoken_description_dot">Dot</string>
     <!-- Spoken description for the "Switch language" keyboard key. -->
-    <string name="spoken_description_language_switch">Switch language</string>
     <!-- Spoken description for the "Next" action keyboard key. -->
     <string name="spoken_description_action_next">Next</string>
     <!-- Spoken description for the "Previous" action keyboard key. -->

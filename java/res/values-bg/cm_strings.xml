@@ -25,5 +25,5 @@
     <string name="show_longpress_hints">Покажи подсказки при задържане на бутони</string>
     <string name="show_longpress_hints_summary">Покажи подсказки при задържане на бутони</string>
     <string name="show_emoji_key">Покажи емоджи бутона</string>
-    <string name="show_emoji_key_summary">Винаги да се показва емоджи бутона. Когато опцията е изключена, бутонът за смяна на езика не се показва.</string>
+    <string name="show_emoji_key_summary">Винаги да се показва емоджи бутона.</string>
 </resources>

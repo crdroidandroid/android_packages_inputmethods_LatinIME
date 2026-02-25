@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Sizning shaxsiy lug\'atingiz Google serverlarida sinxronlashadi va zahiraga nusxalanadi. So‘zning qayta uchrash ko‘rsatkichi statistik ma’lumotlari, bizga mahsulotlarimiz sifatini oshirishda ko‘maklashish uchun to‘planishi mumkin. Barcha ma’lumotlar yig‘ilishi va foydalanishi "<a href="https://www.google.com/policies/privacy">" Google maxfiylik siyosati "</a>" shartlari bo‘yicha amalga oshadi."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Ushbu imkoniyatni yoqish uchun, iltimos, Google hisobingizni qo‘shing"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"“Biznes uchun Google Apps” hisobi mavjud qurilmalarda sinxronlab bo‘lmaydi"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Boshqa usullarga o‘tish"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Tilni almashtirish tugmasi matn kiritish usulini ham o‘zgartiradi"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"Tilni almashtirish tugmasi"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"Bir nechta matn kiritish tili mavjud bo‘lganda ko‘rsatilsin"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"Yopilish vaqti"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"Kechikishsiz"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"Standart"</string>

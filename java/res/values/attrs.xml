@@ -279,7 +279,6 @@
         <attr name="iconSpaceKeyForNumberLayout" format="reference" />
         <attr name="iconShiftKeyShifted" format="reference" />
         <attr name="iconShortcutKeyDisabled" format="reference" />
-        <attr name="iconLanguageSwitchKey" format="reference" />
         <attr name="iconZwnjKey" format="reference" />
         <attr name="iconZwjKey" format="reference" />
         <attr name="iconImeKey" format="reference" />
@@ -510,7 +509,6 @@
         <attr name="hasShortcutKey" format="boolean" />
         <attr name="numberRowEnabled" format="boolean" />
         <attr name="emojiKeyEnabled" format="boolean" />
-        <attr name="languageSwitchKeyEnabled" format="boolean" />
         <attr name="isMultiLine" format="boolean" />
         <attr name="imeAction" format="enum">
             <!-- This should be aligned with

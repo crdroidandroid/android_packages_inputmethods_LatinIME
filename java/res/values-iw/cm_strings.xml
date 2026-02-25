@@ -29,7 +29,7 @@
     <string name="show_longpress_hints">הצגת רמזים בלחיצה ארוכה על מקש</string>
     <string name="show_longpress_hints_summary">הצגת רמזים בלחיצה ארוכה על מקשים נתמכים</string>
     <string name="show_emoji_key">הצגת מקש אמוג\'י</string>
-    <string name="show_emoji_key_summary">הצג תמיד מקש אמוג\'י. כאשר אפשרות זו מופעלת, לא ניתן להציג את מקש החלפת שפה.</string>
+    <string name="show_emoji_key_summary">הצג תמיד מקש אמוג\'י.</string>
     <string name="enable_split_keyboard_summary">רק במצב לרוחב</string>
     <string name="split_keyboard_duplicate_keys">שכפול המקשים האמצעיים</string>
     <string name="split_keyboard_duplicate_keys_summary">הצגת המקשים שבאמצע בשני חצאי המקלדת</string>

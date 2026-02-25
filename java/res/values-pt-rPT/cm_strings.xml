@@ -29,7 +29,7 @@
     <string name="show_longpress_hints">Mostrar dicas com pressão longa</string>
     <string name="show_longpress_hints_summary">Mostrar dicas ao pressionar longamente em teclas suportadas</string>
     <string name="show_emoji_key">Mostrar tecla de emojis</string>
-    <string name="show_emoji_key_summary">Mostrar sempre a tecla de emojis. Quando esta opção está ativada, o alternador de idioma não será mostrado.</string>
+    <string name="show_emoji_key_summary">Mostrar sempre a tecla de emojis</string>
     <string name="enable_split_keyboard_summary">Apenas no modo paisagem</string>
     <string name="split_keyboard_duplicate_keys">Duplicar teclas centrais</string>
     <string name="split_keyboard_duplicate_keys_summary">Mostrar teclas perto do meio em ambas as metades</string>

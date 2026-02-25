@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Kamus pribadi akan disinkronkan dan dicadangkan ke server Google. Informasi statistik tentang frekuensi kata dapat dikumpulkan untuk membantu menyempurnakan produk kami. Pengumpulan dan penggunaan data tunduk pada "<a href="https://www.google.com/policies/privacy">"Kebijakan Privasi Google"</a>"."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Tambahkan akun Google ke perangkat ini untuk mengaktifkan fitur ini"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Sinkronisasi tidak tersedia untuk perangkat yang memiliki akun Google Apps for Business"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Beralih ke metode masukan lain"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Tombol beralih bahasa juga mencakup metode masukan lain"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"Tombol pengalih bahasa"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"Tampilkan saat beberapa bahasa masukan diaktifkan"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"Jeda tutup pop-up utama"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"Tanpa penundaan"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"Default"</string>

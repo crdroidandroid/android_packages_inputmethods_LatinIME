@@ -71,8 +71,6 @@ public class SettingsValues {
     public final boolean mShowNumberRowPassword;
     public final boolean mShowLongpressHints;
     public final boolean mShowClipboardSuggestions;
-    public final boolean mIncludesOtherImesInLanguageSwitchList;
-    public final boolean mShowsLanguageSwitchKey;
     public final boolean mShowsEmojiKey;
     public final boolean mUseContactsDict;
     public final boolean mUsePersonalizedDicts;
@@ -154,11 +152,6 @@ public class SettingsValues {
         mShowLongpressHints = prefs.getBoolean(Settings.PREF_SHOW_LONGPRESS_HINTS, true);
         mShowClipboardSuggestions =
                 prefs.getBoolean(Settings.PREF_SHOW_CLIPBOARD_SUGGESTIONS, true);
-        mIncludesOtherImesInLanguageSwitchList = Settings.ENABLE_SHOW_LANGUAGE_SWITCH_KEY_SETTINGS
-                ? prefs.getBoolean(Settings.PREF_INCLUDE_OTHER_IMES_IN_LANGUAGE_SWITCH_LIST, false)
-                : true /* forcibly */;
-        mShowsLanguageSwitchKey = Settings.ENABLE_SHOW_LANGUAGE_SWITCH_KEY_SETTINGS
-                ? Settings.readShowsLanguageSwitchKey(prefs) : true /* forcibly */;
         mShowsEmojiKey = prefs.getBoolean(Settings.PREF_SHOW_EMOJI_KEY, false);
         mUseContactsDict = prefs.getBoolean(Settings.PREF_KEY_USE_CONTACTS_DICT, true);
         mUsePersonalizedDicts = prefs.getBoolean(Settings.PREF_KEY_USE_PERSONALIZED_DICTS, true);
@@ -290,17 +283,6 @@ public class SettingsValues {
         return mInputAttributes.mShouldInsertSpacesAutomatically;
     }
 
-    public boolean isLanguageSwitchKeyEnabled() {
-        if (!mShowsLanguageSwitchKey) {
-            return false;
-        }
-        final RichInputMethodManager imm = RichInputMethodManager.getInstance();
-        if (mIncludesOtherImesInLanguageSwitchList) {
-            return imm.hasMultipleEnabledIMEsOrSubtypes(false /* include aux subtypes */);
-        }
-        return imm.hasMultipleEnabledSubtypesInThisIme(false /* include aux subtypes */);
-    }
-
     public boolean isSameInputType(final EditorInfo editorInfo) {
         return mInputAttributes.isSameInputType(editorInfo);
     }
@@ -410,10 +392,6 @@ public class SettingsValues {
         sb.append("" + mKeyPreviewPopupOn);
         sb.append("\n   mShowsVoiceInputKey = ");
         sb.append("" + mShowsVoiceInputKey);
-        sb.append("\n   mIncludesOtherImesInLanguageSwitchList = ");
-        sb.append("" + mIncludesOtherImesInLanguageSwitchList);
-        sb.append("\n   mShowsLanguageSwitchKey = ");
-        sb.append("" + mShowsLanguageSwitchKey);
         sb.append("\n   mUseContactsDict = ");
         sb.append("" + mUseContactsDict);
         sb.append("\n   mUsePersonalizedDicts = ");

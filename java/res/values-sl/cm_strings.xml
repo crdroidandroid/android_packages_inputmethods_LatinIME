@@ -29,7 +29,7 @@
     <string name="show_longpress_hints">Prikaži namige pridržanja tipke</string>
     <string name="show_longpress_hints_summary">Prikaže namige pridržanja tipke za podprte tipke</string>
     <string name="show_emoji_key">Prikaži tipko za izrazne ikone</string>
-    <string name="show_emoji_key_summary">Vedno prikaži tipko za izrazne ikone. Ko je ta možnost omogočena, preklopnik jezikov ne more biti prikazan.</string>
+    <string name="show_emoji_key_summary">Vedno prikaži tipko za izrazne ikone.</string>
     <string name="enable_split_keyboard_summary">Samo v ležečem načinu</string>
     <string name="split_keyboard_duplicate_keys">Podvoji sredinske tipke</string>
     <string name="split_keyboard_duplicate_keys_summary">Prikaži tipke blizu sredine na obeh polovicah</string>

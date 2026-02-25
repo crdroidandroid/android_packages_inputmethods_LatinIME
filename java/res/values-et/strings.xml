@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Teie isiklik sõnastik sünkroonitakse ja varundatakse Google\'i serveritesse. Meie toodete parandamiseks võidakse koguda sõna esinemissageduse statistikat. Kogu teabe kogumine ja kasutamine toimub "<a href="https://www.google.com/policies/privacy">"Google\'i privaatsuseeskirjade"</a>" järgi."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Lisage selle funktsiooni lubamiseks seadmesse Google\'i konto"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Sünkroonimine pole Google Apps for Businessi kontodega seadmetele saadaval"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Vaheta sisestusmeetodit"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Keelevahetuse võti hõlmab ka muid sisestusmeetodeid"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"Keelevahetuse nupp"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"Kuva, kui lubatud on mitu sisendkeelt"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"Hüpiku loobumisviivitus"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"Viivituseta"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"Vaikeseade"</string>

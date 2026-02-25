@@ -116,8 +116,6 @@ public abstract class AbstractLayoutBase {
             KeyboardIconsSet.NAME_SHORTCUT_KEY);
     private static final int ICON_SETTINGS = KeyboardIconsSet.getIconId(
             KeyboardIconsSet.NAME_SETTINGS_KEY);
-    private static final int ICON_LANGUAGE_SWITCH = KeyboardIconsSet.getIconId(
-            KeyboardIconsSet.NAME_LANGUAGE_SWITCH_KEY);
     private static final int ICON_ENTER = KeyboardIconsSet.getIconId(
             KeyboardIconsSet.NAME_ENTER_KEY);
     private static final int ICON_EMOJI_ACTION = KeyboardIconsSet.getIconId(
@@ -138,8 +136,6 @@ public abstract class AbstractLayoutBase {
     protected static final ExpectedKey TAB_KEY = key(ICON_TAB, Constants.CODE_TAB);
     protected static final ExpectedKey SHORTCUT_KEY = key(ICON_SHORTCUT, Constants.CODE_SHORTCUT);
     protected static final ExpectedKey SETTINGS_KEY = key(ICON_SETTINGS, Constants.CODE_SETTINGS);
-    protected static final ExpectedKey LANGUAGE_SWITCH_KEY = key(
-            ICON_LANGUAGE_SWITCH, Constants.CODE_LANGUAGE_SWITCH);
     protected static final ExpectedKey ENTER_KEY = key(ICON_ENTER, Constants.CODE_ENTER);
     protected static final ExpectedKey EMOJI_ACTION_KEY = key(ICON_EMOJI_ACTION, Constants.CODE_EMOJI);
     protected static final ExpectedKey EMOJI_NORMAL_KEY = key(ICON_EMOJI_NORMAL, Constants.CODE_EMOJI);

@@ -29,7 +29,7 @@
     <string name="show_longpress_hints">Uzun basdıqda düymə ipucularını göstər</string>
     <string name="show_longpress_hints_summary">Dəstəklənən düymələr üçün uzun basma ipucularını göstərir</string>
     <string name="show_emoji_key">İfadə düyməsini göstər</string>
-    <string name="show_emoji_key_summary">İfadə düyməsini hər zaman göstər. Bu seçənək fəal olduğu zaman, dil dəyişdirmə düyməsi göstərilə bilmir.</string>
+    <string name="show_emoji_key_summary">İfadə düyməsini hər zaman göstər.</string>
     <string name="enable_split_keyboard_summary">Yalnız mənzərə rejimində</string>
     <string name="split_keyboard_duplicate_keys">Mərkəz düymələri çoxalt</string>
     <string name="split_keyboard_duplicate_keys_summary">Düymələri hər iki yarıda, ortaya yaxın göstər</string>

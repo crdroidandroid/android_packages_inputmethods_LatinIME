@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"আপোনাৰ ব্যক্তিগত অভিধান ছিংক কৰা হ\'ব আৰু Google ছার্ভাৰত বেক আপ লোৱা হ\'ব।শব্দৰ সঘনতা পৰিসংখ্যাৰ তথ্য আমাৰ সামগ্ৰীসমূহ উন্নত কৰাত সহায় কৰিবলৈ সংগ্ৰহ কৰা হ\'ব পাৰে। সংগ্ৰহ আৰু ব্যৱহাৰ কৰা সকলো তথ্যৰ বাবে "<a href="https://www.google.com/policies/privacy">"Googleৰ ব্যক্তিগত নীতি"</a>" মনা হ\'ব।"</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"এই সুবিধা সক্ষম কৰিবলৈ ডিভাইচত এটা Google একাউণ্ট যোগ কৰক"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"ব্যৱসায় একাউণ্টসমূহৰ বাবে ব্যৱহাৰ কৰা Google এপসমূহৰ ডিভাইচবোৰৰ বাবে ছিংক উপলব্ধ নহয়"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"আন ইনপুট পদ্ধতিলৈ সলনি কৰক"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"ভাষা সলনি কৰা কীটোৱে আন ইনপুট পদ্ধতিসমূহকো সামৰি লয়"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"ভাষা সলনি কৰা কী"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"যেতিয়া একাধিক ইনপুট ভাষা সক্ষম কৰি থোৱা থাকে তেতিয়া দেখুৱাওক"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"কী প\'পআপৰ প্ৰত্যাখ্যান বিলম্ব"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"কোনো বিলম্ব নাই"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"ডিফ\'ল্ট"</string>

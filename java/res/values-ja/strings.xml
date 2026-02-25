@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"単語リストがGoogleのサーバーと同期され、サーバーにバックアップされます。Googleのサービス改善を目的として、語句の使用頻度に関する統計情報が収集される場合があります。収集した情報およびその利用方法は、"<a href="https://www.google.com/policies/privacy">"Googleプライバシーポリシー"</a>"に準拠します。"</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"この機能を有効にするにはデバイスにGoogleアカウントを追加してください"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"同期は、Google Apps for Businessアカウントのデバイスではご利用いただけません"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"他の入力方法に切り替え"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"言語切り替えキーは他の入力方法にも対応しています"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"言語切り替えキー"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"複数の入力言語が有効なときに表示"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"キーのポップアップ時間"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"すぐに消去"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"デフォルト"</string>

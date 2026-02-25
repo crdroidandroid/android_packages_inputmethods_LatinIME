@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Kamus peribadi anda akan disegerakkan dan disandarkan ke pelayan Google. Maklumat statistik kekerapan perkataan mungkin dikumpulkan untuk membantu mempertingkatkan produk kami. Pengumpulan dan penggunaan semua maklumat adalah selaras dengan "<a href="https://www.google.com/policies/privacy">"Dasar Privasi Google"</a>"."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Sila tambahkan akaun Google pada peranti ini untuk mendayakan ciri ini"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Segerak tidak tersedia untuk peranti dengan akaun Google Apps untuk Perniagaan"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Tukar ke kaedah input lain"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Kunci pertukaran bahasa meliputi kaedah masukan lain juga"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"Kekunci tukar bahasa"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"Tunjukkan apabila berbilang bahasa input didayakan"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"Pop tmbl knci ketpkn lengah"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"Tiada kelewatan"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"Lalai"</string>

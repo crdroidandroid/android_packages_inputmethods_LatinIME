@@ -29,7 +29,7 @@
     <string name="show_longpress_hints">Подсказки при длительном нажатии клавиш</string>
     <string name="show_longpress_hints_summary">Показывать всплывающие подсказки при длительном нажатии клавиш</string>
     <string name="show_emoji_key">Показать клавишу смайликов</string>
-    <string name="show_emoji_key_summary">Всегда показывать клавишу смайликов. Если эта опция включена, клавиша переключения языка не отображается.</string>
+    <string name="show_emoji_key_summary">Всегда показывать клавишу смайликов.</string>
     <string name="enable_split_keyboard_summary">Только в альбомной ориентации</string>
     <string name="split_keyboard_duplicate_keys">Дублировать ключи центра</string>
     <string name="split_keyboard_duplicate_keys_summary">Показать клавиши ближе к середине на обеих половинках</string>

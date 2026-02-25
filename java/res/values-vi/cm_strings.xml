@@ -29,7 +29,7 @@
     <string name="show_longpress_hints">Hiển thị các gợi ý khi nhấn giữ phím</string>
     <string name="show_longpress_hints_summary">Hiển thị các gợi ý khi nhấn giữ phím được hỗ trợ</string>
     <string name="show_emoji_key">Hiển thị phím biểu tượng cảm xúc</string>
-    <string name="show_emoji_key_summary">Luôn hiển thị phím biểu tượng cảm xúc. Khi tùy chọn này được bật, phím chuyển đổi ngôn ngữ không thể được hiển thị.</string>
+    <string name="show_emoji_key_summary">Luôn hiển thị phím biểu tượng cảm xúc.</string>
     <string name="enable_split_keyboard_summary">Chỉ ở chế độ ngang</string>
     <string name="split_keyboard_duplicate_keys">Trùng lặp các phím trung tâm</string>
     <string name="split_keyboard_duplicate_keys_summary">Hiển thị các phím gần trung tâm trên cả hai nửa</string>

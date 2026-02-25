@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Fjalori yt personal do të sinkronizohet dhe do të rezervohet në serverët e Google. Informacionet statistikore mbi shpeshtësinë e përdorimit të fjalëve mund të mblidhen për të ndihmuar në përmirësimin e produkteve tona. Mbledhja dhe përdorimi i të gjitha informacioneve do të jetë në përputhje me "<a href="https://www.google.com/policies/privacy">"Politikën e privatësisë së Google"</a>"."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Shto një llogari të Google në këtë pajisje për të aktivizuar këtë funksion"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Sinkronizimi nuk mundësohet për pajisjet me llogari të \"Aplikacioneve të Google për biznesin\""</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Kalo në metoda të tjera hyrjeje"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Tasti i ndryshimit të gjuhës mbulon edhe metoda të tjera hyrjeje"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"Tasti i ndryshimit të gjuhës"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"Shfaq kur janë të aktivizuara shumë gjuhë hyrjeje"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"Vonesa e heqjes së zmadhimit të tastit"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"Pa vonesë"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"I parazgjedhur"</string>

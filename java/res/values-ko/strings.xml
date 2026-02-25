@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"개인 사전이 Google 서버에 동기화되며 백업됩니다. Google의 제품 개선을 위해 단어 빈도에 관한 통계 정보가 수집될 수 있습니다. 모든 정보는 "<a href="https://www.google.com/policies/privacy">"Google 개인정보처리방침"</a>"에 따라 수집되고 사용됩니다."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"이 기능을 사용하려면 기기에 Google 계정을 추가하세요."</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Google Apps for Work 계정을 사용하는 기기에서는 동기화할 수 없습니다."</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"다른 입력 방법으로 전환"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"언어 전환 키가 제공하는 기타 입력 방법"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"언어 전환 키"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"여러 입력 언어를 사용하도록 설정할 때 표시"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"키 팝업 해제 지연"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"지연 없음"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"기본값"</string>

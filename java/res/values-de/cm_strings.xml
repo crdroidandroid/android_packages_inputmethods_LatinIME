@@ -29,5 +29,5 @@
     <string name="show_longpress_hints">Hinweise bei langem Tastendruck anzeigen</string>
     <string name="show_longpress_hints_summary">Zeigt Hinweise bei langem Tastendruck für unterstützte Tasten</string>
     <string name="show_emoji_key">Emoji-Taste anzeigen</string>
-    <string name="show_emoji_key_summary">Emoji-Taste immer anzeigen. Wenn diese Option aktiviert ist, kann die Taste für die Sprachumschaltung nicht angezeigt werden.</string>
+    <string name="show_emoji_key_summary">Emoji-Taste immer anzeigen.</string>
 </resources>

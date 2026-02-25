@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"พจนานุกรมส่วนตัวของคุณจะซิงค์และสำรองข้อมูลไปยังเซิร์ฟเวอร์ Google ข้อมูลเชิงสถิติของความถี่ในการใช้คำอาจได้รับการเก็บรวบรวมเพื่อใช้ปรับปรุงผลิตภัณฑ์ของเรา การเก็บรวบรวมและการใช้งานข้อมูลทั้งหมดจะเป็นไปอย่างสอดคล้องกับ"<a href="https://www.google.com/policies/privacy">"นโยบายความเป็นส่วนตัวของ Google"</a></string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"โปรดเพิ่มบัญชี Google ไปยังอุปกรณ์นี้เพื่อเปิดใช้ฟีเจอร์นี้"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"การซิงค์ไม่พร้อมใช้งานสำหรับอุปกรณ์ที่มีบัญชี Google Apps for Business"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"ใช้วิธีการป้อนข้อมูลอื่น"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"แป้นสลับภาษาครอบคลุมวิธีการป้อนข้อมูลอื่นๆ ด้วย"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"แป้นสลับภาษา"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"แสดงเมื่อเปิดใช้งานภาษาสำหรับอินพุตหลายภาษา"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"หน่วงเวลาก่อนปิดป๊อปอัพหลัก"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"ไม่มีการหน่วงเวลา"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"ค่าเริ่มต้น"</string>

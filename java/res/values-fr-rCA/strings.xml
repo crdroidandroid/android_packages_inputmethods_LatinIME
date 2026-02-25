@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Votre dictionnaire personnel sera synchronisé et sauvegardé sur les serveurs de Google. Des statistiques concernant la fréquence des mots peuvent être recueillies pour nous aider à améliorer nos produits. La collecte et l\'utilisation de toutes les données sont effectuées conformément à la "<a href="https://www.google.com/policies/privacy">"politique de confidentialité de Google"</a>"."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Ajoutez un compte Google à cet appareil pour activer la fonction."</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Synchronisation non disponible pour les comptes Google Apps pour entreprises"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Autres modes de saisie"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"La touche de sélection de langue couvre d\'autres modes de saisie"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"Touche de sélection de langue"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"Afficher lorsque plusieurs langues de saisie sont activées"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"Masquer touche agrandie"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"Aucun délai"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"Par défaut"</string>

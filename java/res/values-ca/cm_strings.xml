@@ -29,7 +29,7 @@
     <string name="show_longpress_hints">Consells de les tecles en mantenir-les premudes</string>
     <string name="show_longpress_hints_summary">Manteniu premut per mostrar els consells de les tecles</string>
     <string name="show_emoji_key">Mostra la tecla emoji</string>
-    <string name="show_emoji_key_summary">Mostra sempre la tecla emoji. Si trieu aquesta opció, no es mostrarà la tecla de canvi de llengua.</string>
+    <string name="show_emoji_key_summary">Mostra sempre la tecla emoji.</string>
     <string name="enable_split_keyboard_summary">Només en horitzontal</string>
     <string name="split_keyboard_duplicate_keys">Duplica les tecles centrals</string>
     <string name="split_keyboard_duplicate_keys_summary">Mostra les tecles prop del centre a totes dues meitats.</string>
