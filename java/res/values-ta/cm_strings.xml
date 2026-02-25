@@ -29,5 +29,5 @@
     <string name="show_longpress_hints">நீண்ட-அழுத்த விசை குறிப்புகளைக் காட்டுக</string>
     <string name="show_longpress_hints_summary">ஒத்துழைக்கப்படும் விசைகளுக்கான நீண்ட-அழுத்த குறிப்புகளைக் காட்டுகிறது</string>
     <string name="show_emoji_key">கருகுறி விசையைக் காட்டுக</string>
-    <string name="show_emoji_key_summary">எப்போதும் கருகுறி விசையைக் காண்பிக்க. இவ்விருப்பம் இயக்கப்பட்டிருக்கும்போது, ​​மொழி மாற்று விசையைக் காண்பிக்க முடியாது.</string>
+    <string name="show_emoji_key_summary">எப்போதும் கருகுறி விசையைக் காட்டு.</string>
 </resources>

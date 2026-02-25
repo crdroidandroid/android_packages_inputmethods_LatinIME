@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"El teu diccionari personal se sincronitzarà i se\'n farà una còpia de seguretat als servidors de Google. És possible que es recopili informació estadística sobre la freqüència de les paraules per poder millorar els nostres productes. La recopilació i l\'ús de tota la informació complirà la "<a href="https://www.google.com/policies/privacy">"Política de privadesa de Google"</a>"."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Afegeix un compte de Google al dispositiu per activar la funció"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Sincron. no disponible per a disps. amb comptes de Google Apps for Business"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Altres mètodes d\'introducció"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"La tecla de canvi d\'idioma serveix també per a altres mètodes"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"Tecla de canvi d\'idioma"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"Mostra-la quan hi hagi diversos idiomes d\'introducció activats"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"Retard en ampliar tecla"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"Sense retard"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"Predeterminat"</string>

@@ -73,15 +73,9 @@ public final class Settings implements SharedPreferences.OnSharedPreferenceChang
             "pref_key_use_double_space_period";
     public static final String PREF_BLOCK_POTENTIALLY_OFFENSIVE =
             "pref_key_block_potentially_offensive";
-    public static final boolean ENABLE_SHOW_LANGUAGE_SWITCH_KEY_SETTINGS =
-            BuildCompatUtils.EFFECTIVE_SDK_INT <= Build.VERSION_CODES.KITKAT;
     public static final boolean SHOULD_SHOW_LXX_SUGGESTION_UI =
             BuildCompatUtils.EFFECTIVE_SDK_INT >= Build.VERSION_CODES.LOLLIPOP;
-    public static final String PREF_SHOW_LANGUAGE_SWITCH_KEY =
-            "pref_show_language_switch_key";
     public static final String PREF_SHOW_EMOJI_KEY = "pref_show_emoji_key";
-    public static final String PREF_INCLUDE_OTHER_IMES_IN_LANGUAGE_SWITCH_LIST =
-            "pref_include_other_imes_in_language_switch_list";
     public static final String PREF_CUSTOM_INPUT_STYLES = "custom_input_styles";
     public static final String PREF_ENABLE_SPLIT_KEYBOARD = "pref_split_keyboard";
     // TODO: consolidate key preview dismiss delay with the key preview animation parameters.
@@ -107,10 +101,6 @@ public final class Settings implements SharedPreferences.OnSharedPreferenceChang
     public static final String PREF_SHOW_NUMBER_ROW_PASSWORD = "pref_show_number_row_password";
 
     public static final String PREF_SHOW_LONGPRESS_HINTS = "pref_show_longpress_hints";
-    // This preference key is deprecated. Use {@link #PREF_SHOW_LANGUAGE_SWITCH_KEY} instead.
-    // This is being used only for the backward compatibility.
-    private static final String PREF_SUPPRESS_LANGUAGE_SWITCH_KEY =
-            "pref_suppress_language_switch_key";
 
     private static final String PREF_LAST_USED_PERSONALIZATION_TOKEN =
             "pref_last_used_personalization_token";
@@ -277,18 +267,6 @@ public final class Settings implements SharedPreferences.OnSharedPreferenceChang
         return Integer.parseInt(prefs.getString(PREF_KEY_PREVIEW_POPUP_DISMISS_DELAY,
                 Integer.toString(res.getInteger(
                         R.integer.config_key_preview_linger_timeout))));
-    }
-
-    public static boolean readShowsLanguageSwitchKey(final SharedPreferences prefs) {
-        if (prefs.contains(PREF_SUPPRESS_LANGUAGE_SWITCH_KEY)) {
-            final boolean suppressLanguageSwitchKey = prefs.getBoolean(
-                    PREF_SUPPRESS_LANGUAGE_SWITCH_KEY, false);
-            final SharedPreferences.Editor editor = prefs.edit();
-            editor.remove(PREF_SUPPRESS_LANGUAGE_SWITCH_KEY);
-            editor.putBoolean(PREF_SHOW_LANGUAGE_SWITCH_KEY, !suppressLanguageSwitchKey);
-            editor.apply();
-        }
-        return prefs.getBoolean(PREF_SHOW_LANGUAGE_SWITCH_KEY, true);
     }
 
     public static String readPrefAdditionalSubtypes(final SharedPreferences prefs,

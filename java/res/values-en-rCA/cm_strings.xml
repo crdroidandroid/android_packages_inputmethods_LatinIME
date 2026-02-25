@@ -29,5 +29,5 @@
     <string name="show_longpress_hints">Show long-press key hints</string>
     <string name="show_longpress_hints_summary">Shows long-press hints for supported keys</string>
     <string name="show_emoji_key">Show emoji key</string>
-    <string name="show_emoji_key_summary">Always show emoji key. When this option is enabled, the language switch key cannot be shown.</string>
+    <string name="show_emoji_key_summary">Always show emoji key.</string>
 </resources>

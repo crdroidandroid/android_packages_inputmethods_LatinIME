@@ -25,5 +25,5 @@
     <string name="show_longpress_hints">Toon langdruk-toets hints</string>
     <string name="show_longpress_hints_summary">Toont langdruk-hints voor ondersteunde toetsen</string>
     <string name="show_emoji_key">Toon emoji toets</string>
-    <string name="show_emoji_key_summary">Emoji-toets altijd weergeven. Als deze optie is ingeschakeld, kan de taalwisseltoets niet worden weergegeven.</string>
+    <string name="show_emoji_key_summary">Emoji-toets altijd weergeven.</string>
 </resources>

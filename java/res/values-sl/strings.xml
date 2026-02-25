@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Osebni slovar bo sinhroniziran in varnostno kopiran v Googlove strežnike. Statistične podatke o pogostosti rabe besed bomo morda zbirali zaradi izboljšanja naših izdelkov. Zbiranje in uporaba vseh podatkov bo skladna z "<a href="https://www.google.com/policies/privacy">"Googlovim pravilnikom o zasebnosti"</a>"."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"V napravi dodajte Google Račun, če želite omogočiti to funkcijo"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Sinhronizacija ni na voljo za naprave z računi za Google Apps for Business"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Prekl. na drug nač. vnosa"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Tipka za preklop jezika, ki vključuje tudi druge načine vnosa"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"Tipka za preklop med jeziki"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"Pokaži, ko je omogočenih več jezikov vnosa"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"Trajanje povečanja tipke"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"Brez zakasnitve"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"Privzeto"</string>

@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"သင့်ရဲ့ကိုယ်ပိုင်အဘိဓါန်ကို Google server များမှာ ထပ်တူညီအောင်လုပ် ပြီး မူလပုံစံ ပြန်သွားမည်။ အိုင်တီထုတ်ကုန်များ တိုးတက်မှုရှိအောင် စာလုံးရေ ကောက်ယူမှု အချက်အလက်ကို စုစည်းပါသည်။ အဆိုပါအချက်အလက်စုယူ သုံးစွဲမှုကို "<a href="https://www.google.com/policies/privacy">" Google၏မိမိအတွင်းရေးသီးသန့် မူဝါဒ "</a>" ဖြင့် စောဒကတက် နိုင်သည်။"</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"ဒီအင်္ဂါရပ်တွေကို ရဖို့ဒီစက်မှာ Google account တစ်ခုကို ဖွင့်ပါ"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"စီးပွားရေးအကောင့်များအတွက် Google အပ်ဖ်များဖြင့် စက်ပစ္စည်းများတွင် ထပ်တူပြုခြင်း မရနိုင်ပါ"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"အခြားထည့်သွင်းမည့် နည်းလမ်းများသို့ ပြောင်းရန်"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"ဘာသာပြောင်းသည့် ကီးသည် အခြားထည့်သွင်းရန် နည်းလမ်းများလည်း ပါဝင်သည်"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"ဘာသာစကား ပြောင်းခလုတ်"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"များပြားသည့် ထည့်သွင်းရန်နည်းလမ်းများဖွင့်ထားလျှင် ပြပါ"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"ကီးပေါ်လာ၍ ပယ်ရန်နှုန်း"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"နောက်မကျ"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"မူရင်းအတိုင်း"</string>

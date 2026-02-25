@@ -29,5 +29,5 @@
     <string name="show_longpress_hints">Uzun basdıqda düymə ipucularını göstər</string>
     <string name="show_longpress_hints_summary">Dəstəklənən düymələr üçün uzun basma ipucularını göstərir</string>
     <string name="show_emoji_key">İfadə düyməsini göstər</string>
-    <string name="show_emoji_key_summary">İfadə düyməsini hər zaman göstər. Bu seçim fəal olduqda, dil dəyişdirmə düyməsi göstərilə bilmir.</string>
+    <string name="show_emoji_key_summary">İfadə düyməsini hər zaman göstər.</string>
 </resources>

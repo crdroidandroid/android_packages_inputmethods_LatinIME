@@ -29,5 +29,5 @@
     <string name="show_longpress_hints">Tippek megjelenítése hosszan nyomáskor</string>
     <string name="show_longpress_hints_summary">A támogatott billentyűkön, hosszan lenyomáskor tippeket jelenít meg</string>
     <string name="show_emoji_key">Emoji-gomb megjelenítése</string>
-    <string name="show_emoji_key_summary">Mindig mutassa meg az emojik gombját.  Ha ez az opció engedélyezve van, a nyelvváltó gomb nem jeleníthető meg.</string>
+    <string name="show_emoji_key_summary">Mindig mutassa meg az emojik gombját.</string>
 </resources>

@@ -44,7 +44,6 @@
     <string name="spoken_description_return" msgid="4488063731506261120">"Kiritish"</string>
     <string name="spoken_description_search" msgid="329378364788556198">"Qidiruv"</string>
     <string name="spoken_description_dot" msgid="3283345286942874246">"Qora nuqta"</string>
-    <string name="spoken_description_language_switch" msgid="7746491590433873257">"Tilni almashtirish"</string>
     <string name="spoken_description_action_next" msgid="3138675495787988738">"Keyingisi"</string>
     <string name="spoken_description_action_previous" msgid="6412781133527225661">"Orqaga"</string>
     <string name="spoken_description_shiftmode_on" msgid="3024566466254641378">"Yuqori registr yoqildi"</string>

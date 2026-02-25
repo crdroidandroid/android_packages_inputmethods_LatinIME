@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"A rendszer szinkronizálni fogja az Ön személyes szótárát, és biztonsági mentést készít róla a Google szerverein. Termékeink továbbfejlesztése érdekében a rendszer a szavak előfordulási gyakoriságára vonatkozó statisztikai adatokat gyűjthet. Ezen információkat a "<a href="https://www.google.com/policies/privacy">"Google adatvédelmi irányelveivel"</a>" összhangban gyűjtjük és használjuk fel."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"A funkció engedélyezéséhez adjon egy Google-fiókot az eszközhöz"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"A Google Apps cégeknek-fiókkal rendelkező eszközökön nem érhető el a szinkronizálás"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Váltás más beviteli módra"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"A nyelvkapcsoló gomb egyéb beviteli módokat is tartalmaz"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"A nyelvkapcsoló"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"Megjelenítés, ha több beviteli nyelv engedélyezett"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"Gombeltüntetés késése"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"Nincs késés"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"Alapbeállítás"</string>

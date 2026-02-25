@@ -696,9 +696,6 @@ public final class InputLogic {
             case Constants.CODE_ACTION_PREVIOUS:
                 performEditorAction(EditorInfo.IME_ACTION_PREVIOUS);
                 break;
-            case Constants.CODE_LANGUAGE_SWITCH:
-                handleLanguageSwitchKey();
-                break;
             case Constants.CODE_EMOJI:
                 // Note: Switching emoji keyboard is being handled in
                 // {@link KeyboardState#onEvent(Event,int)}.
@@ -1248,13 +1245,6 @@ public final class InputLogic {
             System.currentTimeMillis());
         mDictionaryFacilitator.unlearnFromUserHistory(
             word, ngramContext, timeStampInSeconds, eventType);
-    }
-
-    /**
-     * Handle a press on the language switch key (the "globe key")
-     */
-    private void handleLanguageSwitchKey() {
-        mLatinIME.switchToNextSubtype();
     }
 
     /**

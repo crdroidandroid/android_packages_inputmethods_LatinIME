@@ -29,5 +29,5 @@
     <string name="show_longpress_hints">Simboli di pressione prolungata</string>
     <string name="show_longpress_hints_summary">Mostra i simboli di pressione prolungata per i tasti che li prevedono</string>
     <string name="show_emoji_key">Mostra tasto emoji</string>
-    <string name="show_emoji_key_summary">Mostra sempre il tasto emoji. Quando questa opzione è abilitata, il tasto di selezione della lingua non può essere mostrato.</string>
+    <string name="show_emoji_key_summary">Mostra sempre il tasto emoji.</string>
 </resources>

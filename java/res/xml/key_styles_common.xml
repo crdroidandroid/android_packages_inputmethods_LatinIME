@@ -117,11 +117,6 @@
         latin:altCode="!code/key_space"
         latin:backgroundType="functional" />
     <key-style
-        latin:styleName="languageSwitchKeyStyle"
-        latin:keySpec="!icon/language_switch_key|!code/key_language_switch"
-        latin:keyActionFlags="noKeyPreview|altCodeWhileTyping|enableLongPress"
-        latin:altCode="!code/key_space" />
-    <key-style
         latin:styleName="tabKeyStyle"
         latin:keySpec="!icon/tab_key|!code/key_tab"
         latin:backgroundType="functional" />

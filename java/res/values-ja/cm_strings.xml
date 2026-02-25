@@ -29,5 +29,5 @@
     <string name="show_longpress_hints">長押しのヒントを表示</string>
     <string name="show_longpress_hints_summary">サポートしているキーでは長押しでヒントを表示します</string>
     <string name="show_emoji_key">絵文字キーを表示</string>
-    <string name="show_emoji_key_summary">常に絵文字キーを表示します。このオプションを有効にすると、言語切り替えキーを表示できません。</string>
+    <string name="show_emoji_key_summary">常に絵文字キーを表示します。</string>
 </resources>

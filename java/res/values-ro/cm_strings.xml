@@ -29,5 +29,5 @@
     <string name="show_longpress_hints">Arată sugestii taste pentru apăsare lungă</string>
     <string name="show_longpress_hints_summary">Afişează indicii de apăsare lungă pentru tastele acceptate</string>
     <string name="show_emoji_key">Arată tastă emoji</string>
-    <string name="show_emoji_key_summary">Arată întotdeauna cheia emoji. Când această opțiune este activată, tasta de comutare a limbii nu poate fi afișată.</string>
+    <string name="show_emoji_key_summary">Arată întotdeauna cheia emoji.</string>
 </resources>

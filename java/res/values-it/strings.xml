@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Il tuo dizionario personale verrà sincronizzato sui server di Google e ne verrà effettuato il backup. Potrebbero essere raccolte informazioni statistiche relative alla frequenza delle parole per migliorare i nostri prodotti. La raccolta e l\'utilizzo di tutte le informazioni saranno conformi alle "<a href="https://www.google.com/policies/privacy">"Norme sulla privacy di Google"</a>"."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Per attivare la funzione, aggiungi un Account Google al dispositivo"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"La sincronizzazione non è disponibile per i dispositivi con account Google Apps for Business"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Altri metodi immissione"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Il tasto per cambiare lingua offre altri metodi di immissione"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"Tasto cambio lingua"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"Mostra quando sono attive più lingue di immissione"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"Ritardo eliminaz. popup tasto"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"Nessun ritardo"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"Predefinito"</string>

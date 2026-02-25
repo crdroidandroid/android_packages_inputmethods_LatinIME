@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"आपकी निजी डिक्शनरी को Google सर्वर से सिंक किया जाएगा और उसका बैक अप लिया जाएगा. हमारे उत्पादों को बेहतर बनाने में मदद करने के लिए हो सकता है कि इस बात के आंकड़े इकट्ठा किये जाएं कि एक शब्द को कितनी बार दोहराया गया है. सभी जानकारी को इकट्ठा करना और उसका इस्तेमाल करना "<a href="https://www.google.com/policies/privacy">"Google की निजता नीति"</a>" के अनुपालन में होगा."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"यह सुविधा सक्षम करने के लिए इस डिवाइस पर एक Google खाता जोड़ें"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Google Apps for Business खातों वाले डिवाइस के लिए समन्वय उपलब्ध नहीं है"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"अन्‍य इनपुट पद्धतियों पर जाएं"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"भाषा स्‍विच कुंजी में अन्‍य इनपुट पद्धतियां भी शामिल हैं"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"भाषा स्विच कुंजी"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"एकाधिक इनपुट भाषाएं सक्षम होने पर दिखाएं"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"कुंजी पॉपअप खारिज़ विलंब"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"कोई विलंब नहीं"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"सामान्य"</string>

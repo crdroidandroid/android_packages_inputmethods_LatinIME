@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Таны хувийн толь бичгийг синк хийж, Google-ийн серверүүд дээр хадгалж авч үлдэнэ. Манай бүтээгдэхүүнүүдийг сайжруулахад туслах зорилгоор үгийн давтамжийн статистик мэдээллийг цуглуулж болно. Бүх мэдээллийг "<a href="https://www.google.com/policies/privacy">"Google-ийн Нууцлалын бодлогын дагуу"</a>" цуглуулж, ашиглана."</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Энэ горимыг идэвхжүүлэхийн тулд энэ төхөөрөмж рүү Google бүртгэл нэмж оруулна уу"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Бизнес акаунтуудын Google Апп бүхий төхөөрөмжүүдэд синк хийх боломжгүй"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Оруулах өөр арга руу шилжүүлэх"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Хэл солих түлхүүрт өөр оруулах аргууд мөн багтсан байгаа"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"Хэл солих товч"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"Оруулах хэл олныг идэвхжүүлсэн үед харуулах"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"Товчны попап арилах хугацаа"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"Хүлээхгүй"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"Үндсэн"</string>

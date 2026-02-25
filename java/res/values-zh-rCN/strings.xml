@@ -46,10 +46,6 @@
     <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"您的个人字典将会同步并备份到 Google 服务器。系统可能会收集字词出现频率的统计信息，来帮助改进我们的产品。所有信息的收集和使用都会遵守 "<a href="https://www.google.com/policies/privacy">"Google 隐私权政策"</a>"。"</string>
     <string name="add_account_to_enable_sync" msgid="1657487000451860348">"要启用此功能，请将 Google 帐号添加到此设备中"</string>
     <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"在登录了 Google Apps for Business 帐号的设备上无法使用同步功能"</string>
-    <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"切换到其他输入法"</string>
-    <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"语言切换键也可用于切换其他输入法"</string>
-    <string name="show_language_switch_key" msgid="8756330695904259459">"语言切换键"</string>
-    <string name="show_language_switch_key_summary" msgid="8384511980090372506">"启用了多种输入语言时显示"</string>
     <string name="key_preview_popup_dismiss_delay" msgid="8614997927810442853">"弹出字符隐藏延迟"</string>
     <string name="key_preview_popup_dismiss_no_delay" msgid="432663218827821108">"无延迟"</string>
     <string name="key_preview_popup_dismiss_default_delay" msgid="5550664463804963104">"默认"</string>

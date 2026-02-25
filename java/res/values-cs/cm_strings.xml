@@ -25,5 +25,5 @@
     <string name="show_longpress_hints">Dlouhým stiskem klávesy zobrazit nápovědu</string>
     <string name="show_longpress_hints_summary">Dlouhým stiskem podporované klávesy zobrazit nápovědu</string>
     <string name="show_emoji_key">Zobrazit klávesu emodži</string>
-    <string name="show_emoji_key_summary">Vždy zobrazte klávesu emoji. Pokud je tato možnost povolena, klávesa pro přepínání jazyků se nezobrazí.</string>
+    <string name="show_emoji_key_summary">Vždy zobrazte klávesu emoji.</string>
 </resources>
