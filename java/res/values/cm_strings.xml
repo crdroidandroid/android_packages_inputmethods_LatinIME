@@ -55,4 +55,8 @@ disposition rather than other common dispositions for Latin languages. [CHAR LIM
     <!-- Preference item for always showing the emoji key -->
     <string name="show_emoji_key">Show emoji key</string>
     <string name="show_emoji_key_summary">Always show emoji key.</string>
+
+    <!-- Preference item for auto-switching back to letters after typing an apostrophe on the symbols keyboard -->
+    <string name="auto_switch_after_apostrophe">Auto-switch after apostrophes</string>
+    <string name="auto_switch_after_apostrophe_summary">Automatically switch back to the letter keyboard after an apostrophe</string>
 </resources>

@@ -55,6 +55,12 @@
         android:defaultValue="true"
         android:persistent="true" />
     <CheckBoxPreference
+        android:key="pref_auto_switch_after_apostrophe"
+        android:title="@string/auto_switch_after_apostrophe"
+        android:summary="@string/auto_switch_after_apostrophe_summary"
+        android:defaultValue="false"
+        android:persistent="true" />
+    <CheckBoxPreference
         android:key="vibrate_on"
         android:title="@string/vibrate_on_keypress"
         android:defaultValue="@bool/config_default_vibration_enabled"
