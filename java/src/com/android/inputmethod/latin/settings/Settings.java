@@ -98,6 +98,8 @@ public final class Settings implements SharedPreferences.OnSharedPreferenceChang
 
     public static final String PREF_ENABLE_METRICS_LOGGING = "pref_enable_metrics_logging";
     public static final String PREF_SHOW_NUMBER_ROW = "pref_show_number_row";
+    public static final String PREF_AUTO_SWITCH_AFTER_APOSTROPHE =
+            "pref_auto_switch_after_apostrophe";
 
     public static final String PREF_SHOW_LONGPRESS_HINTS = "pref_show_longpress_hints";
 
@@ -348,6 +350,10 @@ public final class Settings implements SharedPreferences.OnSharedPreferenceChang
 
     public static boolean readSpaceTrackpadEnabled(final SharedPreferences prefs) {
         return prefs.getBoolean(PREF_SPACE_TRACKPAD, true);
+    }
+
+    public static boolean readAutoSwitchAfterApostrophe(final SharedPreferences prefs) {
+        return prefs.getBoolean(PREF_AUTO_SWITCH_AFTER_APOSTROPHE, false);
     }
 
     public static boolean readUseFullscreenMode(final Resources res) {

@@ -89,6 +89,7 @@ public final class KeyboardState {
     private boolean mIsSymbolShifted;
     private boolean mPrevMainKeyboardWasShiftLocked;
     private boolean mPrevSymbolsKeyboardWasShifted;
+    private boolean mAutoSwitchAfterApostrophe;
     private int mRecapitalizeMode;
 
     // For handling double tap.
@@ -123,6 +124,10 @@ public final class KeyboardState {
     public KeyboardState(final SwitchActions switchActions) {
         mSwitchActions = switchActions;
         mRecapitalizeMode = RecapitalizeStatus.NOT_A_RECAPITALIZE_MODE;
+    }
+
+    public void setAutoSwitchAfterApostrophe(final boolean enabled) {
+        mAutoSwitchAfterApostrophe = enabled;
     }
 
     public void onLoadKeyboard(final int autoCapsFlags, final int recapitalizeMode) {
@@ -618,6 +623,10 @@ public final class KeyboardState {
         return c == Constants.CODE_SPACE || c == Constants.CODE_ENTER;
     }
 
+    private boolean shouldSwitchBackAfterApostrophe(final int code) {
+        return mAutoSwitchAfterApostrophe && code == Constants.CODE_SINGLE_QUOTE;
+    }
+
     public void onEvent(final Event event, final int autoCapsFlags, final int recapitalizeMode) {
         final int code = event.isFunctionalKeyEvent() ? event.mKeyCode : event.mCodePoint;
         if (DEBUG_EVENT) {
@@ -649,15 +658,18 @@ public final class KeyboardState {
                 // after the user hits an emoji letter followed by an enter or a space.
                 break;
             }
-            if (!isSpaceOrEnter(code) && (Constants.isLetterCode(code)
+            if (shouldSwitchBackAfterApostrophe(code)) {
+                toggleAlphabetAndSymbols(autoCapsFlags, recapitalizeMode);
+                mPrevSymbolsKeyboardWasShifted = false;
+            } else if (!isSpaceOrEnter(code) && (Constants.isLetterCode(code)
                     || code == Constants.CODE_OUTPUT_TEXT)) {
                 mSwitchState = SWITCH_STATE_SYMBOL;
             }
             break;
         case SWITCH_STATE_SYMBOL:
             // Switch back to alpha keyboard mode if user types one or more non-space/enter
-            // characters followed by a space/enter.
-            if (isSpaceOrEnter(code)) {
+            // characters followed by a space/enter or an apostrophe (when enabled).
+            if (isSpaceOrEnter(code) || shouldSwitchBackAfterApostrophe(code)) {
                 toggleAlphabetAndSymbols(autoCapsFlags, recapitalizeMode);
                 mPrevSymbolsKeyboardWasShifted = false;
             }

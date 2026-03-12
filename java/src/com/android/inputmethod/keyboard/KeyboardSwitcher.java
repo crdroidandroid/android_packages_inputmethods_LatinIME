@@ -133,6 +133,7 @@ public final class KeyboardSwitcher implements KeyboardState.SwitchActions {
                 && settingsValues.mIsSplitKeyboardEnabled);
         mKeyboardLayoutSet = builder.build();
         try {
+            mState.setAutoSwitchAfterApostrophe(settingsValues.mAutoSwitchAfterApostrophe);
             mState.onLoadKeyboard(currentAutoCapsState, currentRecapitalizeState);
             mKeyboardTextsSet.setLocale(mRichImm.getCurrentSubtypeLocale(), mThemeContext);
         } catch (KeyboardLayoutSetException e) {

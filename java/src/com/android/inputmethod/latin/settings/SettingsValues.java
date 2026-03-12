@@ -75,6 +75,7 @@ public class SettingsValues {
     public final boolean mUseDoubleSpacePeriod;
     public final boolean mBlockPotentiallyOffensive;
     public final boolean mSpaceTrackpadEnabled;
+    public final boolean mAutoSwitchAfterApostrophe;
     // Use bigrams to predict the next word when there is no input for it yet
     public final boolean mBigramPredictionEnabled;
     public final boolean mGestureInputEnabled;
@@ -221,6 +222,7 @@ public class SettingsValues {
                     .execute(mInputAttributes.mTargetApplicationPackageName);
         }
         mSpaceTrackpadEnabled = Settings.readSpaceTrackpadEnabled(prefs);
+        mAutoSwitchAfterApostrophe = Settings.readAutoSwitchAfterApostrophe(prefs);
     }
 
     public boolean isMetricsLoggingEnabled() {
