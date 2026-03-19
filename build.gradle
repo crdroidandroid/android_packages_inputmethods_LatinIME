@@ -4,7 +4,7 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:8.1.2'
+        classpath 'com.android.tools.build:gradle:8.9.1'
     }
 }
 
@@ -77,6 +77,11 @@ android {
     externalNativeBuild {
         ndkBuild {
             path 'native/jni/AndroidNdk.mk'
+        }
+    }
+    packaging {
+        jniLibs {
+            useLegacyPackaging = false
         }
     }
     androidResources {
